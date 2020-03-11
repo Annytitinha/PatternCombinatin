@@ -1,1 +1,1 @@
-# PatternCombinatin
+# PatternCombination
